@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "NO-black";
+    src: url('./NotoSansSC-Black.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NO-Bold";
+    src: url('./NotoSansSC-Bold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NO-Thin";
+    src: url('./NotoSansSC-Thin.otf');
+    font-weight: normal;
+    font-style: normal;
+}
